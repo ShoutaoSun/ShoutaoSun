@@ -1,5 +1,5 @@
 # Hi this is shoutao 👋
-### Attending UPC 
+### Attended UPC in 2021
 ### My major: Intelligent Science and Technology
 
 
