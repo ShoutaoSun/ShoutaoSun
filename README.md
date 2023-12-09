@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi this is shoutao 👋
+## Attending UPC major: Intelligent Science and Technology
 
 
 - 🔭 I’m currently working on ...
