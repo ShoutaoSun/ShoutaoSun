@@ -3,6 +3,6 @@
 
 
 - 🔭 I'm Shoutao Sun, a junior student in China University of Petroleum, College of Science & College of Computer Science and Technology, majoring in **Intelligent Science and Technology**.
-- 🌱 I'm currently working on AI security.
+- 🌱 I'm currently working on **AI security**.
 - 📫 Do not hesitate to contact me if you have any things or questions want to discuss. Email: <u>sunshoutao0827@163.com</u>
 - ⚡ Fun fact: I like geography very much, but my major is computer science🥳
