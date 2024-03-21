@@ -1,4 +1,4 @@
-# Hi! This is shoutao 👋
+# Hi! This is Shoutao 👋
 ### Attended UPC in 2021
 
 
