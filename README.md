@@ -1,12 +1,10 @@
-# Hi! This is Shoutao 👋
-
 <h1 align="center">
   <a>
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);保持热爱，敬畏智能&center=true&size=22"> 
   </a>
 </h1>
 
-### Attended UPC in 2021
+### Hi! This is Shoutao 👋, I Attended UPC in 2021
 
 - 🔭 I'm Shoutao, a senior student in China University of Petroleum, College of Science & College of Computer Science and Technology, majoring in **Intelligent Science and Technology**.
 - 🌱 I'm currently working on **AI security**.
