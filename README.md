@@ -1,6 +1,6 @@
 <h1 align="center">
   <a>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);保持热爱，敬畏智能&center=true&size=22"> 
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22欢迎访问%22);保持热爱，敬畏智能&center=true&size=22"> 
   </a>
 </h1>
 
