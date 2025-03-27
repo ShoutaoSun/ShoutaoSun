@@ -5,4 +5,5 @@
 - 📫 Do not hesitate to contact me if you have any things or questions want to discuss. Email: <u>sunshoutao0827@163.com</u>
 - ⚡ Fun fact: I like geography very much, but my major is intelligent science🥳
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
